@@ -1,4 +1,5 @@
 var fs = require("fs");
+
 // Create a readable stream
 var readerStream = fs.createReadStream('input.txt');
 // Create a writable stream

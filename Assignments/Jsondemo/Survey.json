@@ -1,0 +1,885 @@
+{
+	"title": "Walmart FML Case Closure Survey Denied",
+	"nickname": "",
+	"language": "en",
+	"folder_id": "0",
+	"category": "customer_satisfaction",
+	"question_count": 9,
+	"page_count": 9,
+	"response_count": 58594,
+	"date_created": "2019-06-23T11:51:00",
+	"date_modified": "2022-08-17T04:26:00",
+	"collect_stats": null,
+	"id": "180950333",
+	"buttons_text": {
+		"next_button": "Next",
+		"prev_button": "Prev",
+		"done_button": "Done",
+		"exit_button": ""
+	},
+	"is_owner": false,
+	"footer": false,
+	"theme_id": "2337128",
+	"custom_variables": {
+		"scid": "scid"
+	},
+	"href": "https://api.surveymonkey.com/v3/surveys/180950333",
+	"analyze_url": "https://www.surveymonkey.com/analyze/CadUe2IDbDmmAa63v8SR_2FexXfQU9hZCyxbacnSitlnw_3D",
+	"edit_url": "https://www.surveymonkey.com/create/?sm=CadUe2IDbDmmAa63v8SR_2FexXfQU9hZCyxbacnSitlnw_3D",
+	"collect_url": "https://www.surveymonkey.com/collect/list?sm=CadUe2IDbDmmAa63v8SR_2FexXfQU9hZCyxbacnSitlnw_3D",
+	"summary_url": "https://www.surveymonkey.com/summary/CadUe2IDbDmmAa63v8SR_2FexXfQU9hZCyxbacnSitlnw_3D",
+	"preview": "https://www.surveymonkey.com/r/Preview/?sm=snXvygj3Km5_2BIOA1tQv2a3vzwCTRGLqt1xlT8FahjixJ_2FwK6Y31ds8Br_2BKYrYhqj",
+	"pages": [
+		{
+			"title": "<strong>\u00a0</strong>",
+			"description": "<div style=\"text-align: left;\"><em><span style=\"font-family: verdana,geneva,sans-serif;\"><span style=\"font-size: 12pt;\">Welcome to the Walmart Leave and Disability Service Center at Sedgwick\u00a0Customer Satisfaction Survey.\u00a0 We invite you to take this short survey regarding the service you received during the handling of your Leave case.\u00a0 Your feedback is appreciated and valued as it will help in our continued focus to improve our customer's experience.</span></span></em></div>",
+			"position": 1,
+			"question_count": 0,
+			"id": "82418389",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418389",
+			"questions": []
+		},
+		{
+			"title": "<strong></strong>",
+			"description": "",
+			"position": 2,
+			"question_count": 1,
+			"id": "82418390",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418390",
+			"questions": [
+				{
+					"id": "301111727",
+					"position": 1,
+					"visible": true,
+					"family": "matrix",
+					"subtype": "rating",
+					"layout": null,
+					"sorting": null,
+					"required": {
+						"text": "This question requires an answer.",
+						"type": "exactly",
+						"amount": "1"
+					},
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "Overall, please rate your experience with the Walmart Leave and Disability Service Center at Sedgwick ."
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418390/questions/301111727",
+					"answers": {
+						"rows": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "",
+								"id": "2005534222"
+							}
+						],
+						"choices": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "Very Satisfied",
+								"id": "2005534165",
+								"is_na": false,
+								"weight": 4,
+								"description": ""
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "Satisfied",
+								"id": "2005534166",
+								"is_na": false,
+								"weight": 3,
+								"description": ""
+							},
+							{
+								"position": 3,
+								"visible": true,
+								"text": "Dissatisfied",
+								"id": "2005534167",
+								"is_na": false,
+								"weight": 2,
+								"description": ""
+							},
+							{
+								"position": 4,
+								"visible": true,
+								"text": "Very Dissatisfied",
+								"id": "2005534168",
+								"is_na": false,
+								"weight": 1,
+								"description": ""
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "<strong></strong>",
+			"description": "",
+			"position": 3,
+			"question_count": 1,
+			"id": "82418391",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418391",
+			"questions": [
+				{
+					"id": "301111729",
+					"position": 1,
+					"visible": true,
+					"family": "multiple_choice",
+					"subtype": "vertical_two_col",
+					"layout": {
+						"left_spacing": 0,
+						"top_spacing": 0,
+						"right_spacing": 0,
+						"bottom_spacing": 0,
+						"width_format": null,
+						"width": null,
+						"col_width_format": null,
+						"col_width": null,
+						"position": "new_row",
+						"num_chars": 100,
+						"num_lines": 1
+					},
+					"sorting": null,
+					"required": {
+						"text": "This question requires an answer.",
+						"type": "at_least",
+						"amount": "1"
+					},
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "Please let us know out of the following options where you were most satisfied <em><span style=\"font-size: 10pt;\">(select all that apply)</span></em>."
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418391/questions/301111729",
+					"answers": {
+						"other": {
+							"position": 0,
+							"visible": false,
+							"text": "Other (please specify)",
+							"id": "2005534198",
+							"num_lines": 1,
+							"num_chars": 100,
+							"is_answer_choice": true,
+							"apply_all_rows": false,
+							"error_text": "Please enter a comment."
+						},
+						"choices": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "Sedgwick Representatives were helpful, knowledgeable and able to answer my questions.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534179"
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "Communications were timely and helped me understand the process and what I was responsible for throughout the process.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534180"
+							},
+							{
+								"position": 3,
+								"visible": true,
+								"text": "My calls were returned within one (1) business day.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534181"
+							},
+							{
+								"position": 4,
+								"visible": true,
+								"text": "I received communications on my preferred method of contact (i.e. text, email).",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534182"
+							},
+							{
+								"position": 5,
+								"visible": true,
+								"text": "It was easy to submit the required paperwork.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534183"
+							},
+							{
+								"position": 6,
+								"visible": true,
+								"text": "I was aware of the online portal, mySedgwick, and how it could be used throughout the claim process.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534184"
+							},
+							{
+								"position": 7,
+								"visible": true,
+								"text": "The decision on my claim was made and communicated to me in a timely manner.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534185"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "<strong></strong>",
+			"description": "",
+			"position": 4,
+			"question_count": 1,
+			"id": "82418392",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418392",
+			"questions": [
+				{
+					"id": "301111723",
+					"position": 1,
+					"visible": true,
+					"family": "multiple_choice",
+					"subtype": "vertical_two_col",
+					"layout": {
+						"left_spacing": 0,
+						"top_spacing": 0,
+						"right_spacing": 0,
+						"bottom_spacing": 0,
+						"width_format": null,
+						"width": null,
+						"col_width_format": null,
+						"col_width": null,
+						"position": "new_row",
+						"num_chars": 100,
+						"num_lines": 1
+					},
+					"sorting": null,
+					"required": {
+						"text": "This question requires an answer.",
+						"type": "at_least",
+						"amount": "1"
+					},
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "Please let us know out of the options listed where you may <em><strong>Disagree\u00a0 <br></strong><span style=\"font-size: 10pt;\">(select all that apply)</span><strong>.</strong></em>"
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418392/questions/301111723",
+					"answers": {
+						"other": {
+							"position": 0,
+							"visible": false,
+							"text": "Other (please specify)",
+							"id": "2005534157",
+							"num_lines": 1,
+							"num_chars": 100,
+							"is_answer_choice": true,
+							"apply_all_rows": false,
+							"error_text": "Please enter a comment."
+						},
+						"choices": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "Sedgwick Representatives were helpful, knowledgeable and able to answer all my questions.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534152"
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "Communications were timely and helped me understand the process and what I was responsible for throughout the process.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534153"
+							},
+							{
+								"position": 3,
+								"visible": true,
+								"text": "My calls were returned within one (1) business day.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534186"
+							},
+							{
+								"position": 4,
+								"visible": true,
+								"text": "I received communications based on my preferred method of contact (i.e. text, email).",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534154"
+							},
+							{
+								"position": 5,
+								"visible": true,
+								"text": "It was easy to submit the required paperwork.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534155"
+							},
+							{
+								"position": 6,
+								"visible": true,
+								"text": "I was aware of the online portal, mySedgwick, and how it could be used throughout the claim process.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534156"
+							},
+							{
+								"position": 7,
+								"visible": true,
+								"text": "The decision on my claim was made and communicated to me in a timely manner.",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534164"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "",
+			"description": "",
+			"position": 5,
+			"question_count": 1,
+			"id": "193764758",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/193764758",
+			"questions": [
+				{
+					"id": "775114407",
+					"position": 1,
+					"visible": true,
+					"family": "single_choice",
+					"subtype": "vertical",
+					"layout": null,
+					"sorting": null,
+					"required": null,
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "<span>We appreciate any further comments you may have regarding your claim experience. <br><br>Would you like to leave a comment?</span>"
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/193764758/questions/775114407",
+					"answers": {
+						"choices": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "Yes",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130002"
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "No",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130003"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "",
+			"description": "",
+			"position": 6,
+			"question_count": 1,
+			"id": "193764761",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/193764761",
+			"questions": [
+				{
+					"id": "775114431",
+					"position": 1,
+					"visible": true,
+					"family": "multiple_choice",
+					"subtype": "vertical",
+					"layout": {
+						"left_spacing": 0,
+						"top_spacing": 0,
+						"right_spacing": 0,
+						"bottom_spacing": 0,
+						"width_format": "percent",
+						"width": 100,
+						"col_width_format": null,
+						"col_width": null,
+						"position": "new_row",
+						"num_chars": 50,
+						"num_lines": 3
+					},
+					"sorting": null,
+					"required": null,
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "Please select the category or categories that most closely relate to your comment and then write in your comment(s) below."
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/193764761/questions/775114431",
+					"answers": {
+						"other": {
+							"position": 0,
+							"visible": true,
+							"text": "Comment(s) ",
+							"id": "5132130353",
+							"num_lines": 3,
+							"num_chars": 50,
+							"is_answer_choice": false,
+							"apply_all_rows": false,
+							"error_text": ""
+						},
+						"choices": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "<strong>Communication:</strong> comment relates to verbal/written/digital communication",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130347"
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "<strong>Payment or Benefit:</strong> comment relates to payment or receipt of benefit payment",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130348"
+							},
+							{
+								"position": 3,
+								"visible": true,
+								"text": "<strong>Use of phone system or mySedgwick online: </strong>comment relates to use of the phone system or online mySedgwick system",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130349"
+							},
+							{
+								"position": 4,
+								"visible": true,
+								"text": "<strong>Getting or submitting medical documentation:</strong> comment relates to ability to get required paperwork and/or sending the required paperwork to Sedgwick",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130350"
+							},
+							{
+								"position": 5,
+								"visible": true,
+								"text": "<strong>Overall claim process: </strong>comment relates to the processing of the claim and/or returning to work at Walmart",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130351"
+							},
+							{
+								"position": 6,
+								"visible": true,
+								"text": "<strong>None of the above:</strong> comment does not fit into any of the above categories",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "5132130352"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "<strong></strong>",
+			"description": "",
+			"position": 7,
+			"question_count": 1,
+			"id": "82418394",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418394",
+			"questions": [
+				{
+					"id": "301111730",
+					"position": 1,
+					"visible": true,
+					"family": "matrix",
+					"subtype": "rating",
+					"layout": {
+						"left_spacing": 0,
+						"top_spacing": 0,
+						"right_spacing": 0,
+						"bottom_spacing": 0,
+						"width_format": "percent",
+						"width": 100,
+						"col_width_format": "percent",
+						"col_width": 80,
+						"position": "new_row",
+						"num_chars": null,
+						"num_lines": null
+					},
+					"sorting": null,
+					"required": {
+						"text": "This question requires an answer.",
+						"type": "all",
+						"amount": "0"
+					},
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "How likely is it that you would recommend Sedgwick to a friend or colleague?"
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418394/questions/301111730",
+					"answers": {
+						"rows": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "",
+								"id": "2005534203"
+							}
+						],
+						"choices": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "Not at all likely - 0",
+								"id": "2005534204",
+								"is_na": false,
+								"weight": -100,
+								"description": "Not at all likely"
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "1",
+								"id": "2005534205",
+								"is_na": false,
+								"weight": -100,
+								"description": ""
+							},
+							{
+								"position": 3,
+								"visible": true,
+								"text": "2",
+								"id": "2005534206",
+								"is_na": false,
+								"weight": -100,
+								"description": ""
+							},
+							{
+								"position": 4,
+								"visible": true,
+								"text": "3",
+								"id": "2005534207",
+								"is_na": false,
+								"weight": -100,
+								"description": ""
+							},
+							{
+								"position": 5,
+								"visible": true,
+								"text": "4",
+								"id": "2005534208",
+								"is_na": false,
+								"weight": -100,
+								"description": ""
+							},
+							{
+								"position": 6,
+								"visible": true,
+								"text": "5",
+								"id": "2005534209",
+								"is_na": false,
+								"weight": -100,
+								"description": ""
+							},
+							{
+								"position": 7,
+								"visible": true,
+								"text": "6",
+								"id": "2005534210",
+								"is_na": false,
+								"weight": -100,
+								"description": ""
+							},
+							{
+								"position": 8,
+								"visible": true,
+								"text": "7",
+								"id": "2005534211",
+								"is_na": false,
+								"weight": 0,
+								"description": ""
+							},
+							{
+								"position": 9,
+								"visible": true,
+								"text": "8",
+								"id": "2005534212",
+								"is_na": false,
+								"weight": 0,
+								"description": ""
+							},
+							{
+								"position": 10,
+								"visible": true,
+								"text": "9",
+								"id": "2005534213",
+								"is_na": false,
+								"weight": 100,
+								"description": ""
+							},
+							{
+								"position": 11,
+								"visible": true,
+								"text": "Extremely likely - 10",
+								"id": "2005534214",
+								"is_na": false,
+								"weight": 100,
+								"description": "Extremely likely"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "",
+			"description": "",
+			"position": 8,
+			"question_count": 2,
+			"id": "82418395",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418395",
+			"questions": [
+				{
+					"id": "301111731",
+					"position": 1,
+					"visible": true,
+					"family": "demographic",
+					"subtype": "us",
+					"layout": null,
+					"sorting": null,
+					"required": null,
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "Please provide the following demographic information:"
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418395/questions/301111731",
+					"answers": {
+						"rows": [
+							{
+								"position": 1,
+								"visible": false,
+								"text": "Name",
+								"type": "name",
+								"required": false,
+								"id": "2005534226"
+							},
+							{
+								"position": 2,
+								"visible": false,
+								"text": "\n              Company\n            ",
+								"type": "company",
+								"required": false,
+								"id": "2005534227"
+							},
+							{
+								"position": 3,
+								"visible": false,
+								"text": "\n              Address\n            ",
+								"type": "address",
+								"required": false,
+								"id": "2005534228"
+							},
+							{
+								"position": 4,
+								"visible": false,
+								"text": "\n              Address 2\n            ",
+								"type": "address2",
+								"required": false,
+								"id": "2005534229"
+							},
+							{
+								"position": 5,
+								"visible": false,
+								"text": "\n              City/Town\n            ",
+								"type": "city",
+								"required": false,
+								"id": "2005534230"
+							},
+							{
+								"position": 6,
+								"visible": true,
+								"text": "Work State",
+								"type": "state",
+								"required": true,
+								"id": "2005534231"
+							},
+							{
+								"position": 7,
+								"visible": true,
+								"text": "Facility Number: ",
+								"type": "zip",
+								"required": true,
+								"id": "2005534232"
+							},
+							{
+								"position": 8,
+								"visible": false,
+								"text": "Wage ClassCountry",
+								"type": "country",
+								"required": false,
+								"id": "2005534233"
+							},
+							{
+								"position": 9,
+								"visible": false,
+								"text": "\n              Email Address\n            ",
+								"type": "email",
+								"required": false,
+								"id": "2005534234"
+							},
+							{
+								"position": 10,
+								"visible": false,
+								"text": "\n              Phone Number\n            ",
+								"type": "phone",
+								"required": false,
+								"id": "2005534235"
+							}
+						]
+					}
+				},
+				{
+					"id": "301111732",
+					"position": 2,
+					"visible": true,
+					"family": "single_choice",
+					"subtype": "menu",
+					"layout": null,
+					"sorting": null,
+					"required": {
+						"text": "This question requires an answer.",
+						"type": "all",
+						"amount": "0"
+					},
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "What is your wage class?"
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418395/questions/301111732",
+					"answers": {
+						"choices": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "Hourly",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534236"
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "Salaried/Driver",
+								"quiz_options": {
+									"score": 0
+								},
+								"id": "2005534237"
+							}
+						]
+					}
+				}
+			]
+		},
+		{
+			"title": "<strong></strong>",
+			"description": "",
+			"position": 9,
+			"question_count": 1,
+			"id": "82418396",
+			"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418396",
+			"questions": [
+				{
+					"id": "301111722",
+					"position": 1,
+					"visible": true,
+					"family": "open_ended",
+					"subtype": "multi",
+					"layout": null,
+					"sorting": null,
+					"required": {
+						"text": "This question requires an answer.",
+						"type": "all",
+						"amount": "0"
+					},
+					"validation": null,
+					"forced_ranking": false,
+					"headings": [
+						{
+							"heading": "Please provide the following information so that we may review the service that has been provided to you."
+						}
+					],
+					"href": "https://api.surveymonkey.com/v3/surveys/180950333/pages/82418396/questions/301111722",
+					"answers": {
+						"rows": [
+							{
+								"position": 1,
+								"visible": true,
+								"text": "Your Name",
+								"id": "2005534199"
+							},
+							{
+								"position": 2,
+								"visible": true,
+								"text": "Case Number <em>(copy from email)</em>",
+								"id": "2005534200"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}
